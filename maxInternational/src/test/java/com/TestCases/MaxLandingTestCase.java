@@ -9,6 +9,8 @@ import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
+// This class is to run all landing page tests cases
+
 public class MaxLandingTestCase extends LibraryClass {
 	
 
